@@ -1,5 +1,5 @@
 {
-    "name":              "ocramius/proxy-manager",
+    "name":              "akentner/proxy-manager",
     "description":       "A library providing utilities to generate, instantiate and generally operate with Object Proxies",
     "type":              "library",
     "license":           "MIT",
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php":                       "~8.0.0",
+        "php":                       "~8",
         "composer-runtime-api":      "^2.1.0",
         "laminas/laminas-code":      "^4.4.2",
         "webimpress/safe-writer":    "^2.2.0"
