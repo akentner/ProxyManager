@@ -1,5 +1,5 @@
 {
-    "name":              "akentner/proxy-manager",
+    "name":              "ocramius/proxy-manager",
     "description":       "A library providing utilities to generate, instantiate and generally operate with Object Proxies",
     "type":              "library",
     "license":           "MIT",
